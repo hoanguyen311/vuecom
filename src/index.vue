@@ -1,5 +1,6 @@
 <template>
   <p class="vuecom">
+    Please edit:
     <pre>./src/index.vue</pre>
   </p>
 </template>
